@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  font-family: Verdana;
+  background-color:#ff8000 ;
+}
+img {
+  border: 5px solid black;
+}
+h1{
+  color: black;
+  font-family: ClearType;
+}
+	
+</style>
+</head>
+<body>
+<center><h1 style="color:black">JSON PARSING</h1></center>
+
+
+<p id="sham"></p>
+
+<script>
+var xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+  if (this.readyState == 4 && this.status == 200) {
+    var myObj = JSON.parse(this.responseText);
+    document.getElementById("sham").innerHTML = "JSON-parser: The Category of the product " + "'" + myObj.CATEGORY  + "'" + <br> "Product : " +  "'" + myObj.PRODUCT +  "'" + <br> "Price :" + "'" + myObj.PRICE +  "'"+ <br> "Review: " +  "'" + myObj.REVIEW + "'" ;
+  }
+};
+xmlhttp.open("GET", "json_parse.txt", true);
+xmlhttp.send();
+</script>
+
+
+
+<h2 style="color : black">File which has been parsed: <a href="json_parsing.txt">json_parsing.txt</a> </h2></strong>
+
+
+
+</body>
+</html>

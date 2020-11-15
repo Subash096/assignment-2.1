@@ -1,0 +1,10 @@
+
+   {
+      "CATEGORY": "POP SOCKETS",
+      "PRODUCT": "NO.4",
+   
+     
+      "PRICE": "Rs. 149",
+      "REVIEW": "8.8/10",
+      
+   }

@@ -1,0 +1,62 @@
+[
+   {
+      "CATEGORY": "POP SOCKETS",
+      "PRODUCT": "NO.1",
+      "PRICE": "Rs. 149",
+      "REVIEW": "8/10"
+   },
+   {
+      "CATEGORY": "POP SOCKETS",
+      "PRODUCT": "NO.2",
+      "PRICE": "Rs. 149",
+      "REVIEW": "8/10"
+   },
+   {
+      "CATEGORY": "POP SOCKETS",
+      "PRODUCT": "NO.3",
+      "PRICE": "Rs. 169",
+      "REVIEW": "8/10"
+   },
+   {
+      "CATEGORY": "POP SOCKETS",
+      "PRODUCT": "NO.4",
+      "PRICE": "Rs. 139",
+      "REVIEW": "8/10"
+   },
+   {
+      "CATEGORY": "POP SOCKETS",
+      "PRODUCT": "NO.5",
+      "PRICE": "Rs. 159",
+      "REVIEW": "8/10"
+   },
+   {
+      "CATEGORY": "POP SOCKETS",
+      "PRODUCT": "NO.6",
+      "PRICE": "Rs. 149",
+      "REVIEW": "8/10"
+   },
+   {
+      "CATEGORY": "POP SOCKETS",
+      "PRODUCT": "NO.7",
+      "PRICE": "Rs. 149",
+      "REVIEW": "9/10"
+   },
+   {
+      "CATEGORY": "POP SOCKETS",
+      "PRODUCT": "NO.8",
+      "PRICE": "Rs. 199",
+      "REVIEW": "8/10"
+   },
+   {
+      "CATEGORY": "POP SOCKETS",
+      "PRODUCT": "NO.9",
+      "PRICE": "Rs. 149",
+      "REVIEW": "8/10"
+   },
+   {
+      "CATEGORY": "POP SOCKETS",
+      "PRODUCT": "NO.10",
+      "PRICE": "Rs. 199",
+      "REVIEW": "8/10"
+   }
+]

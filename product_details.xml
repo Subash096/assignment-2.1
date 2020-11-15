@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="product_details.xsl" ?>
+<product_details>
+<product>
+<name>NO.1 </name>
+<price>149</price>
+<description>"Joy and satisfaction is what we serve here" </description>
+
+</product>
+<product>
+<name>NO.2</name>
+<price>199</price>
+<description>"Joy and satisfaction is what we serve here".</description>
+
+</product>
+<product>
+<name>NO.3 </name>
+<price>149</price>
+<description>"Joy and satisfaction is what we serve here".</description>
+
+</product>
+<product>
+<name>NO.4</name>
+<price>159</price>
+<description>"Joy and satisfaction is what we serve here".</description>
+
+</product>
+<product>
+<name>NO.5 </name>
+<price>159</price>
+<description>"Joy and satisfaction is what we serve here".</description>
+
+</product>
+<product>
+<name>NO.6</name>
+<price>169</price>
+<description>"Joy and satisfaction is what we serve here".</description>
+
+</product>
+<product>
+<name>NO.7</name>
+<price>149</price>
+<description>"Joy and satisfaction is what we serve here".</description>
+
+</product>
+<product>
+<name>NO.8</name>
+<price>149</price>
+<description>"Joy and satisfaction is what we serve here".</description>
+
+</product>
+<product>
+<name>NO.9 </name>
+<price>159</price>
+<description>"Joy and satisfaction is what we serve here".</description>
+
+</product>
+<product>
+<name>NO.10 </name>
+<price>199</price>
+<description>"Joy and satisfaction is what we serve here".</description>
+
+</product>
+</product_details>
